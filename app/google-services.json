@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643303558478",
+    "project_id": "evola-49412",
+    "storage_bucket": "evola-49412.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643303558478:android:6993ddd0a88c06385c621f",
+        "android_client_info": {
+          "package_name": "com.example.evola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4_BdYzhNzMkjQC7YVFhPJCiAjbiRXn6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
